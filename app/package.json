@@ -1,0 +1,12 @@
+{
+  "name": "my_uniquely_named_app",
+  "bin": "bin/start",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "my_uniquely_named_lib": "^0.1.0"
+  }
+}

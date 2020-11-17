@@ -1,0 +1,10 @@
+{
+  "name": "use",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "yarn my_uniquely_named_app"
+  },
+  "dependencies": {
+    "my_uniquely_named_app": "^0.1.0"
+  }
+}
